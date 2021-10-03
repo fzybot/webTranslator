@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name": "webTranslator",
+	"description": "Перевод с Google Translate при выделении слова.",
+	"version": "0.0.1",
+	"author": "Ruslan V. Akhpashev",
+	"browser_action": {
+		"default_title": "Удобный переводчик",
+		"default_icon": "icon.png"
+	}
+}
